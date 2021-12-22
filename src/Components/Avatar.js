@@ -1,6 +1,7 @@
 import React from "react";
 import { AvatarData } from "../Utils/AvatarData";
 import "../App.css";
+// import '../Index.css'
 
 const Avatar = () => {
   return (

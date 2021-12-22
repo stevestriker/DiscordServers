@@ -26,4 +26,5 @@ export const AvatarData = [
   { image: Sushiswap },
   { image: Tec },
   { image: Uniswap },
+  { image: Uniswap },
 ];
